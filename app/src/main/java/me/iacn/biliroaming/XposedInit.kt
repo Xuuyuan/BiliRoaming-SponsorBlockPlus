@@ -125,6 +125,7 @@ class XposedInit : IXposedHookLoadPackage, IXposedHookZygoteInit {
                     startHook { MultiWindowHook(lpparam.classLoader) }
                     startHook { LiveQualityHook(lpparam.classLoader) }
                     startHook { StoryPlayerAdHook(lpparam.classLoader) }
+                    startHook { SponsorBlockHook(lpparam.classLoader) }
                     startHook { LongPressSpeed(lpparam.classLoader) }
                 }
 

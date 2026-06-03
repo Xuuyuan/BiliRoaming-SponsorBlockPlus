@@ -206,6 +206,12 @@
             android:title="@string/forbid_player_long_click_accelerate_title" />
 
         <SwitchPreference
+            android:defaultValue="false"
+            android:key="sponsorblock_auto_skip"
+            android:summary="@string/sponsorblock_auto_skip_summary"
+            android:title="@string/sponsorblock_auto_skip_title" />
+
+        <SwitchPreference
             android:key="disable_live_room_double_click"
             android:summary="@string/disable_live_room_double_click_summary"
             android:title="@string/disable_live_room_double_click_title" />

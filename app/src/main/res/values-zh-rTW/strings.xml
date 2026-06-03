@@ -216,6 +216,8 @@
     <string name="forbid_switch_live_room_summary">禁止上下滑動切換直播間</string>
     <string name="forbid_player_long_click_accelerate_title">禁用播放器長按加速</string>
     <string name="forbid_player_long_click_accelerate_summary">禁用播放器長按開啟倍速播放的功能</string>
+    <string name="sponsorblock_auto_skip_title">自動跳過影片贊助片段</string>
+    <string name="sponsorblock_auto_skip_summary">從小電視空降助手取得贊助片段並在播放進度回報時自動跳過</string>
     <string name="custom_subtitle_remove_bg">移除字幕背景</string>
     <string name="custom_subtitle_bold">粗體顯示</string>
     <string name="custom_subtitle_fill_color">字體顏色</string>
